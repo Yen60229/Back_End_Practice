@@ -1,0 +1,48 @@
+h1 {
+  color: black;
+  font-size: 40px;
+  border-left: 10px solid blue;
+  border-bottom: 10px solid red;
+  border-right: 10px solid black;
+  border-top: 10px solid pink;
+  /*實心線條 solid*/
+  /*虛線條 dashed*/
+  /*圓點線條 dotted*/
+}
+
+/* HTML標籤: 1分
+class: 10分
+id: 100分
+html style: 1000分
+important: 10000分 */
+
+.style1 {
+  color: red;
+  font-size: 25px;
+}
+
+.style2 {
+  font-family: verdana;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: left;
+  text-indent: 40px;
+  text-decoration: underline;
+  /* letter-spacing: 15px; */
+  /*text-decoration: line-through;*/
+}
+
+a {
+  color: pink;
+  font-size: 50px;
+}
+
+a:hover {
+  color: rgb(225, 18, 53);
+  font-size: 60px;
+}
+
+a:active {
+  color: rgb(47, 219, 28);
+  font-size: 60px;
+}
