@@ -4,7 +4,7 @@ h1 {
   border-left: 10px solid blue;
   border-bottom: 10px solid red;
   border-right: 10px solid black;
-  border-top: 10px solid pink;
+  border-top: 10px solid rgb(60, 4, 13);
   /*實心線條 solid*/
   /*虛線條 dashed*/
   /*圓點線條 dotted*/
